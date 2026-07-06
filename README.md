@@ -30,10 +30,8 @@ A mock collection of unstructured tenant messages:
 
 You can evaluate this project either locally or instantly via Google Colab.
 
-### Option A: Run Instantly via Google Colab
-[Insert Link to your Google Colab Notebook Here]
 
-### Option B: Run Locally
+### Run Locally
 
 **1. Clone the repository and install dependencies:**
 ```bash
