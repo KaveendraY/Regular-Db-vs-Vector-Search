@@ -1,4 +1,4 @@
-# 🔍 Traditional vs. Vector Database: Search Architecture Comparison
+#  Traditional vs. Vector Database: Search Architecture Comparison
 
 This repository provides a practical, FastAPI-based proof of concept comparing traditional relational database search (exact keyword matching) with vector database search (semantic meaning matching). 
 
