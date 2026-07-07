@@ -24,6 +24,17 @@ A mock collection of unstructured tenant messages:
 * *"Can I pay my rent using a credit card?"*
 * *"The lock on the main courtyard gate is jammed."*
 
+  Scenario 01
+
+<img width="622" height="543" alt="image" src="https://github.com/user-attachments/assets/b0fc6499-a377-4e77-8ba7-2c54f4ea83ea" />
+
+
+  Scenario 02
+
+  <img width="672" height="447" alt="image" src="https://github.com/user-attachments/assets/b0dce1bf-1d62-44fa-aebf-5b9e965a3410" />
+
+
+
 ---
 
 ## 🚀 How to Evaluate and Run the Project
