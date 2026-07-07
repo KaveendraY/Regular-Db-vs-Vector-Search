@@ -30,6 +30,7 @@ A mock collection of unstructured tenant messages:
 
 
   Scenario 02
+  HVAC issue refers to any malfunction, inefficiency, or failure in your Heating, Ventilation, and Air Conditioning system.
 
   <img width="672" height="447" alt="image" src="https://github.com/user-attachments/assets/3509d998-08df-4f78-b708-de28f65dadae" />
 
