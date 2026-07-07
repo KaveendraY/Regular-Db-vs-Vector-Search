@@ -31,7 +31,8 @@ A mock collection of unstructured tenant messages:
 
   Scenario 02
 
-  <img width="672" height="447" alt="image" src="https://github.com/user-attachments/assets/b0dce1bf-1d62-44fa-aebf-5b9e965a3410" />
+  <img width="672" height="447" alt="image" src="https://github.com/user-attachments/assets/3509d998-08df-4f78-b708-de28f65dadae" />
+
 
 
 
